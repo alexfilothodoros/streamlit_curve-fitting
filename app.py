@@ -4,7 +4,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 from streamlit_plotly_events import plotly_events
-import matplotlib.pyplot as plt
 from lmfit.models import GaussianModel, ConstantModel
 from lmfit import Model
 
